@@ -1,0 +1,29 @@
+packages/core/src/entity/EntityRepository.ts
+  s_c7ba70c60129a3::t_bc5b278ca9dd9d 2,264
+  s_c7ba70c60129a3::t_e18fe8cc2cbd44 261-262
+tests/issues/GH8020.test.ts
+  s_c7ba70c60129a3::t_bc5b278ca9dd9d 94-95,97,110-111
+  s_c7ba70c60129a3::t_d95ddf59585125 96,98-109
+packages/core/src/EntityManager.ts
+  s_c7ba70c60129a3::t_e18fe8cc2cbd44 2026-2027
+  s_c7ba70c60129a3::t_bc5b278ca9dd9d 2032,2034-2043,3309-3315
+  s_c7ba70c60129a3::t_2e5e829d364742 3316-3317
+docs/docs/entity-manager.md
+  s_c7ba70c60129a3::t_e18fe8cc2cbd44 891-899
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "8ea81bb09781d4ba7f4938b34e827988e1aa81b5",
+  "prompts": {},
+  "sessions": {
+    "s_c7ba70c60129a3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a02f17-5f83-7c72-b910-1ac44e22236e",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Vasilis Koukoutis <vasileios.koukoutis@instashop.ae>"
+    }
+  }
+}
