@@ -1,0 +1,19 @@
+packages/core/src/entity/EntityLoader.ts
+  s_9f077a4dd22870::t_fb2f54414d761d 13,50-51,658,883,930
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "d120d5f1e7a15e68740dd968509da9a037709736",
+  "prompts": {},
+  "sessions": {
+    "s_9f077a4dd22870": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a06b67-9963-7543-a709-caba6c952b74",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Vasilis Koukoutis <vasileios.koukoutis@instashop.ae>"
+    }
+  }
+}
