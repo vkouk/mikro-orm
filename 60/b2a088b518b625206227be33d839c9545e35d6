@@ -1,0 +1,21 @@
+tests/features/dataloader/__snapshots__/dataloader.test.ts.snap
+  s_9f077a4dd22870::t_7d85b97ee42cf0 58-60,210-212,352,361
+tests/features/dataloader/dataloader.test.ts
+  s_9f077a4dd22870::t_0eb782ca5b1214 531-532,546-547,785-786
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "60b2a088b518b625206227be33d839c9545e35d6",
+  "prompts": {},
+  "sessions": {
+    "s_9f077a4dd22870": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a06b67-9963-7543-a709-caba6c952b74",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Vasilis Koukoutis <vasileios.koukoutis@instashop.ae>"
+    }
+  }
+}
