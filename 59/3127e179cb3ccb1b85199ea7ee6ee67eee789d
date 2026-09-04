@@ -1,0 +1,21 @@
+packages/core/src/entity/EntityLoader.ts
+  s_9f077a4dd22870::t_8a94df4c44c712 658-661,886-889,936-939
+tests/features/filters/populate-filter-relation-operators.sqlite.test.ts
+  s_9f077a4dd22870::t_240151bb4e8282 1-64
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "593127e179cb3ccb1b85199ea7ee6ee67eee789d",
+  "prompts": {},
+  "sessions": {
+    "s_9f077a4dd22870": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a06b67-9963-7543-a709-caba6c952b74",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Vasilis Koukoutis <vasileios.koukoutis@instashop.ae>"
+    }
+  }
+}
