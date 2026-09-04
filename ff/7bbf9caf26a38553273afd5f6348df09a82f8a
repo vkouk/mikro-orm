@@ -1,0 +1,25 @@
+packages/core/src/EntityManager.ts
+  s_9f077a4dd22870::t_09f133e091a2ea 623
+packages/core/src/entity/EntityLoader.ts
+  s_9f077a4dd22870::t_f7c756a91bd814 655,880-881
+packages/sql/src/AbstractSqlDriver.ts
+  s_9f077a4dd22870::t_f35ca710641b53 1730,1944
+tests/features/filters/populate-filter-nested.sqlite.test.ts
+  s_9f077a4dd22870::t_80d2b92eb6cc2e 1-157
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "ff7bbf9caf26a38553273afd5f6348df09a82f8a",
+  "prompts": {},
+  "sessions": {
+    "s_9f077a4dd22870": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a06b67-9963-7543-a709-caba6c952b74",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "Vasilis Koukoutis <vasileios.koukoutis@instashop.ae>"
+    }
+  }
+}
