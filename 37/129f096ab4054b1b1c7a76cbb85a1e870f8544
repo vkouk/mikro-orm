@@ -1,0 +1,27 @@
+docs/docs/read-connections.md
+  s_33e87f066b152a::t_84b803d3b1c9ba 55-70
+packages/sql/src/AbstractSqlDriver.ts
+  s_33e87f066b152a::t_314477f02e67be 2364,2366
+tests/features/rls/rls-execute-replicas.postgres.test.ts
+  s_33e87f066b152a::t_05f547b4f33af1 1-183
+packages/sql/src/SqlEntityManager.ts
+  s_33e87f066b152a::t_08b369b514a880 31-32,142-143,171-177
+packages/core/src/EntityManager.ts
+  s_33e87f066b152a::t_2030b627beac2c 94-99,616-620,628-631
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "37129f096ab4054b1b1c7a76cbb85a1e870f8544",
+  "prompts": {},
+  "sessions": {
+    "s_33e87f066b152a": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a08138-0579-7ce2-aa0b-6325cdf07b86",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Vasilis Koukoutis <vasileios.koukoutis@instashop.ae>"
+    }
+  }
+}
