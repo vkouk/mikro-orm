@@ -1,0 +1,29 @@
+packages/core/src/EntityManager.ts
+  s_5051bf993d5de2::t_3ef81fb5c75b55 825
+  s_5051bf993d5de2::t_a1d1c739ba4b25 826-831
+  s_5051bf993d5de2::t_dae3a422b7070f 821-824,832-835
+packages/sql/src/AbstractSqlDriver.ts
+  s_5051bf993d5de2::t_a1d1c739ba4b25 2728
+  s_5051bf993d5de2::t_dae3a422b7070f 617-626,688,2713
+tests/features/filters/populate-ref-many-to-many.postgres.test.ts
+  s_5051bf993d5de2::t_b93cc0ae208336 29-35,45-50,72-77,79-81,83-88
+  s_5051bf993d5de2::t_03806a7470e8e6 1-28,36-41,43-44,51-52,56-64,89-93
+  s_5051bf993d5de2::t_3ef81fb5c75b55 65-71,78,82
+  s_5051bf993d5de2::t_5ff88469d957b0 42,53-55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "dff9e3d19505fe4ef8d55b5bbb4941b347a82337",
+  "prompts": {},
+  "sessions": {
+    "s_5051bf993d5de2": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a09f44-3331-76b1-abe6-5fe7a3e3c40b",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Vasilis Koukoutis <vasileios.koukoutis@instashop.ae>"
+    }
+  }
+}
