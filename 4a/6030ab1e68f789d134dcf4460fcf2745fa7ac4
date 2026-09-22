@@ -1,0 +1,29 @@
+tests/features/embeddables/embedded-formula-fields.test.ts
+  s_362c9414839af3::t_e79fdef87a269f 132-136,163-164
+  s_362c9414839af3::t_b6796030476ad7 162,167
+  s_362c9414839af3::t_7d21e7dba3888c 6-24,26-55,60,86,108-109,126,130-131,140-141,192
+  s_362c9414839af3::t_c04ef351a450a4 25,176-177
+  s_362c9414839af3::t_48574a685a6036 161,165-166,168-171
+  s_362c9414839af3::t_f2f99b0793a952 3-5,56-59,61-65,70-71,73-85,87-103,105-106,110-119,121-123,125,127-128,137-138,142-155,157-160,172-175,178-191
+  s_362c9414839af3::t_7b79b426bad7d3 1-2,66-69,72,104,107,120,124,129,139,156
+packages/sql/src/query/QueryBuilder.ts
+  s_362c9414839af3::t_05ace44009669d 3322,3345,3350,3456-3457
+packages/sql/src/query/QueryBuilderHelper.ts
+  s_362c9414839af3::t_05ace44009669d 199,210-211,216
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "4a6030ab1e68f789d134dcf4460fcf2745fa7ac4",
+  "prompts": {},
+  "sessions": {
+    "s_362c9414839af3": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0ca17-4835-7e42-9e8f-f5b7614f47c8",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Vasilis Koukoutis <vasileios.koukoutis@instashop.ae>"
+    }
+  }
+}
