@@ -1,0 +1,73 @@
+docs/docs/entity-manager.md
+  s_9b6fd263069a48::t_9d609e41edd148 308,311,322,327,329,331,333,335
+tests/features/selection-pagination.test.ts
+  s_9b6fd263069a48::t_52b0b38a77674a 29
+  s_9b6fd263069a48::t_ce25298994c99a 1-28,30-78,80-97,100-103,105-119
+  s_e76de70bfb1196::t_e51a5fd1c841d6 79,98-99,104
+packages/core/src/platforms/Platform.ts
+  s_9b6fd263069a48::t_ecae9e6e41e1e2 486-489
+packages/sql/src/query/QueryBuilder.ts
+  s_9b6fd263069a48::t_abe4d608bc68d1 4252
+  s_9b6fd263069a48::t_9d23393326971c 980
+  s_9b6fd263069a48::t_54fde9325bd484 4247-4251,4253-4255,4278-4282,4311-4317
+packages/core/src/entity/EntityRepository.ts
+  s_9b6fd263069a48::t_ecae9e6e41e1e2 35-36,181-192
+  s_9b6fd263069a48::t_64ebcb01d3821c 151,166-167,448
+  s_9b6fd263069a48::t_f1072cda405c79 193
+  s_9b6fd263069a48::t_a4d687304e0d86 194-195
+tests/features/selection-pagination.sqlite.test.ts
+  s_9b6fd263069a48::t_812a1b23d75bc6 25-33,38,48,83,539-540,548
+  s_9b6fd263069a48::t_d8ea928de96d74 500-513,515-528,530-532,554
+  s_9b6fd263069a48::t_52b0b38a77674a 71-72,533-536,538,541-543,552-553
+  s_9b6fd263069a48::t_29a20dc386e2b4 82,84-85,544-547,549-551
+  s_9b6fd263069a48::t_74e64ece242e5a 1,52-68,118,130,137,246,410-429,431-437,439,441-456,458-460,462-471,473-494,496-498
+  s_9b6fd263069a48::t_3e41b34f95beec 69-70,73-75,314-322,537
+  s_9b6fd263069a48::t_369dbd10c691fc 50,499,555-598
+  s_9b6fd263069a48::t_e7479bf32c2a64 49,51,139,147,149,160,169,175-180,187,191,198-202,206-207,210,212,217,227-229,231,234,239-240,248,259,261,283,298,313,323,328,353,356,387,430,438,440,457,461,472,495,514,529
+packages/core/src/drivers/DatabaseDriver.ts
+  s_9b6fd263069a48::t_d8ea928de96d74 5,69
+packages/core/src/utils/QueryHelper.ts
+  s_9b6fd263069a48::t_64ebcb01d3821c 19-20
+packages/sql/src/AbstractSqlPlatform.ts
+  s_9b6fd263069a48::t_ecae9e6e41e1e2 204-207
+packages/sql/src/AbstractSqlDriver.ts
+  s_9b6fd263069a48::t_44541b203a3aca 14,292,305-307,317-323,333-340,342-347,349-350,356-365,367-371,373-376,378-379,381-382
+  s_9b6fd263069a48::t_369dbd10c691fc 366
+  s_9b6fd263069a48::t_9926bb89201ae6 351-355
+  s_9b6fd263069a48::t_0f7f7747351a11 324-332,341
+  s_9b6fd263069a48::t_f1072cda405c79 380
+  s_9b6fd263069a48::t_fd4d8a22b6d159 348,372,377,383-384
+packages/core/src/drivers/IDatabaseDriver.ts
+  s_9b6fd263069a48::t_9bebd9f373590c 16,72,419-447,449-458,460-462
+  s_9b6fd263069a48::t_64ebcb01d3821c 244,471,481
+  s_9b6fd263069a48::t_c24440cf9e68d5 448,459,463
+packages/core/src/EntityManager.ts
+  s_9b6fd263069a48::t_ecae9e6e41e1e2 27,35-36,242-254,259,271-282,1081-1140
+  s_9b6fd263069a48::t_4b440be2915a3e 1141
+tests/features/selection-pagination.pglite.test.ts
+  s_9b6fd263069a48::t_0b861401695467 46,72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "e05fa2a51199f4fa77059987207adfde12c5e9f8",
+  "prompts": {},
+  "sessions": {
+    "s_9b6fd263069a48": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0d426-8bad-79f0-9996-da916bd6ce67",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Vasilis Koukoutis <vasileios.koukoutis@instashop.ae>"
+    },
+    "s_e76de70bfb1196": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f9331-8d12-7aa2-b920-809df2046859",
+        "model": "gpt-6-sol"
+      },
+      "human_author": "Vasilis Koukoutis <vasileios.koukoutis@instashop.ae>"
+    }
+  }
+}
