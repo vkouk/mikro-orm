@@ -1,0 +1,38 @@
+packages/core/src/drivers/IDatabaseDriver.ts
+  s_9b6fd263069a48::t_fcbb1b557f4c14 432-441,449-451
+  s_9b6fd263069a48::t_dceb0313e463e5 72-79,452
+packages/core/src/EntityManager.ts
+  s_9b6fd263069a48::t_fcbb1b557f4c14 1125-1133
+  s_9b6fd263069a48::t_fd741e6085ba48 256,317
+  s_9b6fd263069a48::t_30df428c18ceb5 254,257,1105-1107,1113,1120-1124,1134-1136,1141,1143-1145
+  s_9b6fd263069a48::t_648633281007a5 245,255,258,263-266,273
+tests/features/selection-pagination.sqlite.test.ts
+  s_9b6fd263069a48::t_05fd0524c6b601 323-361
+  s_9b6fd263069a48::t_a542bde4e678d8 1-12
+packages/core/src/platforms/Platform.ts
+  s_9b6fd263069a48::t_dceb0313e463e5 486
+packages/core/src/drivers/DatabaseDriver.ts
+  s_9b6fd263069a48::t_dceb0313e463e5 8,69,78-83
+  s_9b6fd263069a48::t_fcbb1b557f4c14 72-77
+  s_9b6fd263069a48::t_5742b7567c4e7b 84
+packages/sql/src/AbstractSqlDriver.ts
+  s_9b6fd263069a48::t_dceb0313e463e5 29,292,305,315-336,340,342,373,381,401
+packages/sql/src/AbstractSqlPlatform.ts
+  s_9b6fd263069a48::t_dceb0313e463e5 204
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "511c3ef04928228ba5538e9be4bba9f5fc9b5d84",
+  "prompts": {},
+  "sessions": {
+    "s_9b6fd263069a48": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0d426-8bad-79f0-9996-da916bd6ce67",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Vasilis Koukoutis <vasileios.koukoutis@instashop.ae>"
+    }
+  }
+}
