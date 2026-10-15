@@ -1,0 +1,23 @@
+tests/features/serialization/serialize-options-reuse.test.ts
+  s_a2f522a7413274::t_ea74bd05d0e50d 63-66
+  s_a2f522a7413274::t_7c52211f805d04 1-62,67-84
+packages/core/src/serialization/EntitySerializer.ts
+  s_a2f522a7413274::t_ea74bd05d0e50d 96-100
+  s_a2f522a7413274::t_adabbf2264eb9c 29-73,75-82,104,122,144,336-354,359-366,374-380,584-585,587,590
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "99f52d10a695980496dac41e0ffa5eb4de34dc07",
+  "prompts": {},
+  "sessions": {
+    "s_a2f522a7413274": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5106f480-168c-4fdc-8156-7e731028eb53",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Vasilis Koukoutis <vasileios.koukoutis@instashop.ae>"
+    }
+  }
+}
